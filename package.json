@@ -4,6 +4,7 @@
   "description": "",
   "main": "movies-jquery.js",
   "scripts": {
+    "start": "node movies-jquery.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
